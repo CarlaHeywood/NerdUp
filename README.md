@@ -1,3 +1,3 @@
 BC Hackathon Winning Project of 2015
 
-<a>carlaheywood.github.io/NerdUp</a>
+<a href="https://carlaheywood.github.io/NerdUp/"> View site here</a>

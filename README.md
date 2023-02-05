@@ -10,3 +10,12 @@ If you have a project that you wanted to find someone to work with on, you will 
 You have found a soild partner and have encountered another road block but don't want to lose the intereaction, you can resquest the help of a tutor. 
 
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlaHeywood/NerdUp/master/img/screenshot.png" width="100%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlaHeywood/NerdUp/master/img/NerdUpPage.png" width="100%">
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CarlaHeywood/NerdUp/master/img/NerdUpPaired.png" width="100%">
+</p>
